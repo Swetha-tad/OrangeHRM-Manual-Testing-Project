@@ -2,6 +2,7 @@
 📝 Project Description
 
 Manual testing project on OrangeHRM demo application covering Admin, PIM, Leave, Time, Performance and ESS modules. Includes test scenarios, detailed test cases, RTM and defect reporting using Jira.
+
 🔍 Project Overview
 
 This project is a manual testing practice project performed on the OrangeHRM Open Source Demo Application.
