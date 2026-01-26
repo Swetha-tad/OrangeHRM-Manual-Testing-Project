@@ -1,10 +1,11 @@
 # OrangeHRM - Manual Testing Project
 📝 Project Description
+
 Manual testing project on OrangeHRM demo application covering Admin, PIM, Leave, Time, Performance and ESS modules. Includes test scenarios, detailed test cases, RTM and defect reporting using Jira.
 🔍 Project Overview
 
 This project is a manual testing practice project performed on the OrangeHRM Open Source Demo Application.
-The goal of this project is to gain hands-on experience in complete Software Testing Life Cycle (STLC) including test planning, test design, execution, defect reporting, and traceability.
+The goal of this project is to gain hands-on experience in the complete Software Testing Life Cycle (STLC) including test planning, test design, execution, defect reporting, and traceability.
 
 🎯 Objectives
 
