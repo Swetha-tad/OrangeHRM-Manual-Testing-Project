@@ -147,4 +147,3 @@ Jira Tool Usage
 
 HR Domain Understanding
 
-🚀 Future Enhancements (Optional Section)
